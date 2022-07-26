@@ -7,10 +7,13 @@
     margin-right: 0.5em;
 }
 #logoAP{
-    width: 150px;
+    width: 300px;
+    margin-left: 0.5em;
+    padding: 10px;
 }
 img{
-    width: 50px;
+    width: 30px;
+    margin-inline: 3px;
 }
 .btn{
     border-width: medium;
